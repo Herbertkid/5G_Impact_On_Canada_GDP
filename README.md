@@ -15,6 +15,6 @@ According to these equations, the prediction processes are given below. The data
 
 Based on the process, the files CanadaGDPimpact.ipynb, onGDPimpact.ipynb, alGDPimpact.ipynb, QGDPimpact.ipynb contains the code and the result to predict GDP in Canada, Ontario, Albert and Quebec respectively. In conclusion.ipynb, it summarizes the four sets of GDP data forecasted before. We provide the overall trend of GDP from 2010 to 2030 based on the previous data and the predicted value, which is shwon below.
 
-<img width="370" alt="image" src="https://user-images.githubusercontent.com/70187992/160928692-f03c2e86-9f67-49fd-91e6-655f40038804.png">
+<img width="380" alt="image" src="https://user-images.githubusercontent.com/70187992/160928692-f03c2e86-9f67-49fd-91e6-655f40038804.png">
 
 
